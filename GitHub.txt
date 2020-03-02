@@ -1,0 +1,7 @@
+git init
+git clone https://github.com/juanhernandez1z7/DSM1.git
+
+
+Liga:
+https://dl.espressif.com/dl/package_esp32_index.json
+
